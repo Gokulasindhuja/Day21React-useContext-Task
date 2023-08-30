@@ -15,7 +15,7 @@ const Products = ({products, sortProducts, addToCart}) =>  {
         <div className="products">
 
             <div className="products-nav">
-                <h2>Guvi Task - Cart Add/Remove</h2>
+                <h2>Guvi Task - React useContext Task</h2>
                 <h3>Products</h3>
                 <div className="sort-list">
                     Sort by&nbsp;: &nbsp;
