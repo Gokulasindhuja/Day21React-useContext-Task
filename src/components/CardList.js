@@ -2,7 +2,7 @@ import React, { Fragment, useState, useEffect } from 'react';
 
 import Card from './Card';
 
-const CardList = ({products, addToCart}) => {
+const CardLists = ({products, addToCart}) => {
 
     const [delay, setDelay] = useState(true)
 
